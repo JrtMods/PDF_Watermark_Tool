@@ -24,4 +24,6 @@ Mendukung **Bahasa Indonesia** dan **Bahasa Inggris**.
 1. Clone atau unduh repository ini:
    ```bash
    git clone https://github.com/username/pdf-watermark-tool.git
+'''bash
+
    cd pdf-watermark-tool
